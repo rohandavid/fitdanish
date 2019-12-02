@@ -1,0 +1,113 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777; }
+
+.row {
+  max-width: 14rem;
+  margin: 0 auto; }
+  .row:not(:last-child) {
+    margin-bottom: 4rem; }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both; }
+  .row [class^="col-"] {
+    float: left; }
+    .row [class^="col-"]:not(:last-child) {
+      margin-right: 6rem; }
+  .row .col-1-of-2 {
+    width: calc((100% - 6rem) / 2); }
+  .row .col-1-of-3 {
+    width: calc((100% - 2 * 6rem) / 3); }
+  .row .col-2-of-3 {
+    width: calc(2 * ((100% - 2 * 6rem) / 3) + 6rem); }
+  .row .col-1-of-4 {
+    width: calc((100% - 3 * 6rem) / 4); }
+  .row .col-2-of-4 {
+    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
+  .row .col-3-of-4 {
+    width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
+
+
+
+
+
+
+
+
+
+
+
+
+.sign-in{
+   height:50vh;
+    background-color: #2e2a29;
+}
+
+.form-heading {
+    text-transform: uppercase;
+    font-size: 200%;
+    text-align: center;
+    margin: 3rem 0; }
+    .form-heading h1 {
+      font-weight: 100; }
+
+      .sign-in-box{
+        
+        margin-top: 15%;
+
+    }
+
+   
+    .text {
+        font-size: 200%; }
+    .input-box{
+        width: 200%;
+        border-radius: 0.1rem;
+        border-style: solid;
+        border-color: #777;
+        height: 3rem; }
+
+
+
+
+        @media only screen and (max-width:426px){
+           
+            .input-box{
+                width: 150%; }
+        
+                .sign-in-box{
+        
+                    margin-right: 1rem;
+            
+                }               
+ 
+        }
+
+        .button{
+          margin-left: 60%;
+          display: inline-block;
+        padding: 1.5rem 3rem;
+        text-decoration: none;
+        font-weight: 300;
+        color: #fff;
+        border-radius: 200px;
+        transition: background-color 0.2s,border 0.2s,font 0.2s;
+        font-size: 200%;
+        margin-left: 37%;
+        margin-bottom: 2rem; 
+        background-color: #e64622;
+        border: 1px solid #e64622;
+        }

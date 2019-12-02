@@ -1,0 +1,18 @@
+{
+  "name": "danishfit",
+  "version": "1.0.0",
+  "description": "landing page for website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/training.scss css/training.css -w"
+  },
+  "author": "rohan david",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "dependencies": {
+    "npm": "^6.2.0",
+    "skitter-slider": "^5.1.4"
+  }
+}

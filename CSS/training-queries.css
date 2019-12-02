@@ -1,0 +1,214 @@
+
+
+@media only screen and (max-width:1267px){
+ html{
+     font-size: 52%;
+ }
+
+     
+ }
+
+
+
+ @media only screen and (max-width:805px){
+  
+
+    .mobile-navi{
+        display: inline-block;
+        margin-right: 3rem;
+    }
+    
+    .main-nav{
+       float: left;
+       display: none;
+    }
+    
+    .main-nav li{
+        display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited{
+     display: block;
+     border: 0;
+    }
+    
+    }
+   
+
+ 
+
+
+
+
+@media only screen and (max-width:1206px){
+
+   .html{
+       font-size: 52%;
+   }
+    .credit{
+    padding-right: 2.5rem;
+}
+ 
+
+ .credit p{
+     font-size: 150%;
+     margin-left: 6rem;
+ }
+
+ 
+
+}
+
+@media only screen and (max-width:958px){
+   
+        .main-heading   h1{
+           text-align: center;
+           font-size: 300%;
+           font-weight: 200;
+         }
+
+        
+         
+            
+         .combo-meal,.combo-workout,.combo-text,.meal-pic,.meal-text,.workout-pic,.workout-text{
+              padding-left: 10rem;
+         }
+ 
+
+}
+
+
+ 
+
+
+
+
+@media only screen and (max-width:767px){
+    .row [class^="col-"] {
+        float: left; 
+        width: 100%;
+        margin-bottom: 3rem;
+    
+    }
+    
+    .main-nav li a:link,
+    .main-nav li a:visited {
+      text-decoration: none;
+      color: #777;
+      text-transform: uppercase;
+      font-size: 180%;
+      border-bottom: 2px solid transparent;
+      transition: 0.3s;
+      padding: 3px; }
+
+    .row{
+        width: 52rem;
+
+    }
+    .main-heading{
+        padding-bottom: 6rem;
+    }
+    .combo-text   ul li,.meal-text   ul li,.workout-text   ul li  
+    {
+  
+          font-size: 300%;
+          
+    
+    }
+
+
+  
+ 
+html{
+    font-size: 52%;
+}
+
+
+}
+
+@media only screen and (max-width:517px){
+
+
+ 
+
+
+
+   
+
+    .combo-text   ul li,.meal-text   ul li,.workout-text   ul li  
+  {
+
+        font-size: 250%;
+        
+  
+  }
+}
+
+
+@media only screen and (max-width:480px){
+    html{
+        font-size: 48%;
+    }
+    .row{
+        width: 35rem;
+    }
+     .header-row{
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+     .main-nav li{
+         font-size: 120%;
+         padding : 1px;
+     }
+     .header{
+         padding-bottom: 2rem;
+     }
+
+     .logo{
+         width: 150px;
+         margin-top: 2rem;
+     }
+     
+     .logo img{
+         width: 100%;
+     }
+
+    .btn1:link,
+    .btn1:visited,
+    
+    
+    {
+        
+        display: inline-block;
+        padding: 0.2rem 0.2rem;
+        text-decoration: none;
+        font-weight: 150;
+        color: #fff;
+        border-radius: 100px;
+        transition: background-color 0.2s,border 0.2s,font 0.2s;
+        font-size: 50%;
+    }
+    
+    .btn-full:link,
+    .btn-full:visited,
+    
+    
+    {
+        margin-right: 15px;
+        background-color: #e64622;
+        border:1px solid #e64622;
+        
+        
+    }
+
+    .combo-meal,.combo-workout,.combo-text,.meal-pic,.meal-text,.workout-pic,.workout-text{
+        padding-right: 10%;
+        padding-left: 10%;
+        margin-right: 0%;
+        margin-left : 0%;
+    }
+}
+
+
+

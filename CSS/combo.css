@@ -1,0 +1,220 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777; }
+
+.row {
+  max-width: 114rem;
+  margin: 0 auto; }
+  .row:not(:last-child) {
+    margin-bottom: 8rem; }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both; }
+  .row [class^="col-"] {
+    float: left; }
+    .row [class^="col-"]:not(:last-child) {
+      margin-right: 6rem; }
+  .row .col-1-of-2 {
+    width: -webkit-calc((100% - 6rem) / 2);
+    width: calc((100% - 6rem) / 2); }
+  .row .col-1-of-3 {
+    width: -webkit-calc((100% - 2 * 6rem) / 3);
+    width: calc((100% - 2 * 6rem) / 3); }
+  .row .col-2-of-3 {
+    width: -webkit-calc(2 * ((100% - 2 * 6rem) / 3) + 6rem);
+    width: calc(2 * ((100% - 2 * 6rem) / 3) + 6rem); }
+  .row .col-1-of-4 {
+    width: -webkit-calc((100% - 3 * 6rem) / 4);
+    width: calc((100% - 3 * 6rem) / 4); }
+  .row .col-2-of-4 {
+    width: -webkit-calc(2 * ((100% - 3 * 6rem) / 4) + 6rem);
+    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
+  .row .col-3-of-4 {
+    width: -webkit-calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem);
+    width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
+
+.body {
+  background-color: #2e2a29; }
+
+.form-heading {
+  text-transform: uppercase;
+  font-size: 200%;
+  text-align: center;
+  margin: 6rem 0; }
+  .form-heading h1 {
+    font-weight: 100; }
+
+.main-nav {
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+  margin-right: 20px; }
+
+.main-nav li {
+  display: inline-block;
+  margin-left: 30px; }
+
+.main-nav li a:link,
+.main-nav li a:visited {
+  text-decoration: none;
+  color: #777;
+  text-transform: uppercase;
+  font-size: 180%;
+  border-bottom: 2px solid transparent;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  padding: 8px; }
+
+.main-nav li a:hover,
+.main-nav li a:active {
+  border-bottom: 2px solid #e62a1c; }
+
+.text {
+  font-size: 200%; }
+
+.row-main {
+  background-color: white; }
+
+.box1 {
+  padding-top: 2rem;
+  width: 80%; }
+
+.row-sub {
+  width: 100%;
+  padding-left: 1rem; }
+
+#name, #AGE {
+  width: 100%;
+  -webkit-border-radius: 0.1rem;
+          border-radius: 0.1rem;
+  border-style: solid;
+  border-color: #777;
+  height: 4rem; }
+
+.icon {
+  font-size: 1300%;
+  display: inline-block;
+  padding: 2rem; }
+
+#country {
+  width: 90%;
+  -webkit-border-radius: 0.1rem;
+          border-radius: 0.1rem;
+  border-style: solid;
+  border-color: #777;
+  height: 4rem; }
+
+#GOAL {
+  width: 90%;
+  -webkit-border-radius: 0.3rem;
+          border-radius: 0.3rem;
+  border-style: solid;
+  border-color: #777;
+  height: 4rem; }
+
+.test {
+  margin: 2rem auto; }
+
+#message-box {
+  width: 90%;
+  -webkit-border-radius: 0.1rem;
+          border-radius: 0.1rem;
+  border-style: solid;
+  border-color: #777;
+  height: 8rem; }
+
+.btn:link,
+.btn:visited,
+ {
+  display: inline-block;
+  padding: 1.5rem 3rem;
+  text-decoration: none;
+  font-weight: 300;
+  color: #fff;
+  -webkit-border-radius: 200px;
+          border-radius: 200px;
+  -webkit-transition: background-color 0.2s,border 0.2s,font 0.2s;
+  -o-transition: background-color 0.2s,border 0.2s,font 0.2s;
+  transition: background-color 0.2s,border 0.2s,font 0.2s;
+  font-size: 200%;
+  margin-left: 37%;
+  margin-bottom: 2rem; }
+
+.btn-full:link,
+.btn-full:visited,
+ {
+  background-color: #e64622;
+  border: 1px solid #e64622; }
+
+.btn:hover,
+.btn:active,
+ {
+  background-color: #df440c; }
+
+.btn-full:hover,
+.btn-full:active,
+ {
+  border: 1px solid  #e64622; }
+
+
+  .button{
+    margin-left: 60%;
+    display: inline-block;
+  padding: 1.5rem 3rem;
+  text-decoration: none;
+  font-weight: 300;
+  color: #fff;
+  -webkit-border-radius: 200px;
+          border-radius: 200px;
+  -webkit-transition: background-color 0.2s,border 0.2s,font 0.2s;
+  -o-transition: background-color 0.2s,border 0.2s,font 0.2s;
+  transition: background-color 0.2s,border 0.2s,font 0.2s;
+  font-size: 200%;
+  margin-left: 37%;
+  margin-bottom: 2rem; 
+  background-color: #e64622;
+  border: 1px solid #e64622;
+  }
+
+
+@media only screen and (max-width:767px){
+    .test img{
+        width: 90%;
+    }
+    
+    .row2 [class^="col-"]
+    {
+        
+        width: 100%;
+        float: left;
+    }
+    
+    .row-sub i{
+        font-size: 500%;
+        
+    }
+   
+    .text{
+        font-size: 175%;
+    }
+
+.button{
+margin: 2px auto;
+font-size: 150%;
+ }
+}

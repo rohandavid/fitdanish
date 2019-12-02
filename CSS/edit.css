@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777; 
+   background-color: #2e2929; }
+
+   .admin-box{
+       margin-left: 40%;
+       margin-top: 20%;
+   }
+
+   p{
+       font-size: 200%;
+   }
+   div{
+       margin-bottom: 2rem;
+   }
+
+   .button{
+       display: inline-block;
+       border: 2px solid red;
+       background-color: rgba(237, 26, 26, 0.885);
+       border-radius: 15px;
+      color: white;
+       padding: 3px;
+       margin:4px
+   }

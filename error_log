@@ -1,0 +1,1037 @@
+[15-Aug-2018 12:53:28 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 13:09:03 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 13:41:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/workout-form.php on line 16
+[15-Aug-2018 14:17:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 14:20:59 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[15-Aug-2018 14:30:56 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[15-Aug-2018 14:44:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[15-Aug-2018 16:00:30 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 16:57:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[15-Aug-2018 17:00:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[15-Aug-2018 17:00:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[15-Aug-2018 18:03:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[15-Aug-2018 18:34:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[15-Aug-2018 18:34:33 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/workout-form.php on line 16
+[15-Aug-2018 18:52:30 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[16-Aug-2018 00:25:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[16-Aug-2018 06:50:52 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[16-Aug-2018 06:54:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[16-Aug-2018 07:33:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/workout-form.php on line 16
+[16-Aug-2018 08:16:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[16-Aug-2018 08:16:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[16-Aug-2018 10:02:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[16-Aug-2018 17:44:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[17-Aug-2018 04:55:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[17-Aug-2018 05:38:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[17-Aug-2018 05:38:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/workout-form.php on line 16
+[17-Aug-2018 10:26:40 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 10:27:01 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 10:32:42 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 10:32:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 10:33:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 20
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 21
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 22
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 23
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 24
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 25
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 26
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 27
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 28
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 29
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 30
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 31
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 32
+[17-Aug-2018 10:34:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/combo-form.php on line 33
+[17-Aug-2018 10:36:03 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/sign-in.php on line 23
+[17-Aug-2018 10:36:03 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/sign-in.php on line 26
+[17-Aug-2018 10:36:03 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/sign-in.php on line 27
+[17-Aug-2018 10:38:07 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/sign-in.php on line 23
+[17-Aug-2018 10:38:07 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/sign-in.php on line 26
+[17-Aug-2018 10:38:07 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/sign-in.php on line 27
+[17-Aug-2018 10:38:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/sign-in.php on line 23
+[17-Aug-2018 10:38:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/sign-in.php on line 26
+[17-Aug-2018 10:38:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/sign-in.php on line 27
+[17-Aug-2018 12:00:55 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 18:00:08 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Notice:  Undefined index: gender in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 18:00:18 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 19:24:10 Etc/GMT] PHP Notice:  Undefined variable: page_title in /home/danistcm/public_html/test1.php on line 25
+[17-Aug-2018 19:24:26 Etc/GMT] PHP Notice:  Undefined variable: page_title in /home/danistcm/public_html/test1.php on line 25
+[17-Aug-2018 19:26:33 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 19:27:05 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 16
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 17
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 17
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:43:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:48:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:58:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 19:58:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 18
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:21:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:23:02 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:23:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:23:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:24:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:24:13 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 31
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:24:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:25:24 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:27:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:30:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:32:29 Etc/GMT] PHP Notice:  Use of undefined constant plan_type - assumed 'plan_type' in /home/danistcm/public_html/meal-form.php on line 33
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:32:58 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:33:26 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:33:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:35:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:35:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:37:04 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:37:10 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:37:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:38:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:38:50 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:39:35 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Notice:  Undefined variable: dbc in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:45:03 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, string given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:49:08 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, resource given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:49:33 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 19
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:51:51 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:52:19 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 13
+[17-Aug-2018 20:52:19 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 13
+[17-Aug-2018 20:52:51 Etc/GMT] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 13
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 20
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 21
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 22
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 23
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 24
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 25
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 26
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 27
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 28
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 29
+[17-Aug-2018 20:53:57 Etc/GMT] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/danistcm/public_html/meal-form.php on line 30
+[17-Aug-2018 20:54:59 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 38
+[17-Aug-2018 20:54:59 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 38
+[17-Aug-2018 20:54:59 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 40
+[17-Aug-2018 20:54:59 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 40
+[17-Aug-2018 20:54:59 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 43
+[17-Aug-2018 20:54:59 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 43
+[17-Aug-2018 21:00:44 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:00:44 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:00:44 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:00:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:00:44 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:00:44 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:02:49 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:02:49 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:02:49 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:02:49 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:02:49 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:02:56 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:02:56 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:02:56 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:02:56 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:02:56 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:04:34 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:04:34 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:04:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:04:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:04:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:07:17 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:07:17 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:07:17 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:07:17 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:07:17 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:09:02 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:09:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:09:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:09:02 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:09:02 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:17:08 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:17:08 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:17:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:17:08 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:17:08 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'danistcm'@'localhost' (using password: NO) in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:17:08 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:20:43 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:20:43 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:20:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:20:43 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:20:43 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:21:11 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:21:11 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:21:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:21:11 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:21:11 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:22:38 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 37
+[17-Aug-2018 21:24:44 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:24:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:24:44 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:24:44 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:25:31 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:25:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:25:31 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:49:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:49:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[17-Aug-2018 21:49:02 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[17-Aug-2018 21:59:25 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 21:59:25 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:16:52 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:16:52 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:17:11 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:17:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:19:20 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:19:20 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:21:07 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:21:07 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/workout-form.php on line 36
+[17-Aug-2018 22:21:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/danistcm/public_html/combo-form.php on line 16
+[17-Aug-2018 22:26:01 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/combo-form.php on line 39
+[17-Aug-2018 22:26:01 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/combo-form.php on line 39
+[18-Aug-2018 09:32:42 Etc/GMT] PHP Notice:  Undefined variable: data in /home/danistcm/public_html/meal-form.php on line 39
+[18-Aug-2018 09:32:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[18-Aug-2018 09:32:42 Etc/GMT] PHP Notice:  Undefined variable: usplus in /home/danistcm/public_html/meal-form.php on line 42
+[18-Aug-2018 09:39:02 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/sign-in.php on line 31
+[18-Aug-2018 09:42:34 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/sign-in.php on line 33
+[18-Aug-2018 09:47:58 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/sign-in.php on line 33
+[18-Aug-2018 09:49:13 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/sign-in.php on line 33
+[18-Aug-2018 09:49:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/danistcm/public_html/sign-in.php on line 29
+[18-Aug-2018 09:49:58 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/danistcm/public_html/sign-in.php on line 29
+[18-Aug-2018 09:59:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/danistcm/public_html/sign-in.php on line 29
+[18-Aug-2018 10:02:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/danistcm/public_html/sign-in.php on line 26
+[18-Aug-2018 10:02:33 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/danistcm/public_html/sign-in.php on line 26
+[18-Aug-2018 10:08:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/danistcm/public_html/admin-log.php on line 26
+[18-Aug-2018 10:10:16 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/sign-in.php on line 33
+[18-Aug-2018 10:10:54 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/danistcm/public_html/sign-in.php on line 33
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/danistcm/public_html/admin-pannel.php on line 17
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/danistcm/public_html/admin-pannel.php on line 17
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/danistcm/public_html/admin-pannel.php on line 17
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/danistcm/public_html/admin-pannel.php on line 17
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (2) in /home/danistcm/public_html/admin-pannel.php on line 17
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/admin-pannel.php on line 21
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/admin-pannel.php on line 23
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/danistcm/public_html/admin-pannel.php on line 62
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/danistcm/public_html/admin-pannel.php on line 62
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/danistcm/public_html/admin-pannel.php on line 62
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/danistcm/public_html/admin-pannel.php on line 62
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (2) in /home/danistcm/public_html/admin-pannel.php on line 62
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/admin-pannel.php on line 66
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/admin-pannel.php on line 70
+[18-Aug-2018 10:12:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/admin-pannel.php on line 114
+[18-Aug-2018 10:21:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/danistcm/public_html/admin-pannel.php on line 19
+[18-Aug-2018 10:21:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/danistcm/public_html/admin-pannel.php on line 19
+[18-Aug-2018 10:22:34 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/danistcm/public_html/admin-pannel.php on line 19
+[18-Aug-2018 10:23:15 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/danistcm/public_html/admin-pannel.php on line 19
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/danistcm/public_html/admin-pannel.php on line 20
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/danistcm/public_html/admin-pannel.php on line 61
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/danistcm/public_html/admin-pannel.php on line 61
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/danistcm/public_html/admin-pannel.php on line 61
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/danistcm/public_html/admin-pannel.php on line 61
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (95) in /home/danistcm/public_html/admin-pannel.php on line 61
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/admin-pannel.php on line 65
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/admin-pannel.php on line 69
+[18-Aug-2018 10:23:47 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/danistcm/public_html/admin-pannel.php on line 113
+[18-Aug-2018 10:24:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/danistcm/public_html/admin-pannel.php on line 20
+[18-Aug-2018 10:24:29 Etc/GMT] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/danistcm/public_html/edit-user.php on line 45
+[18-Aug-2018 10:24:29 Etc/GMT] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/danistcm/public_html/edit-user.php on line 45
+[18-Aug-2018 10:24:29 Etc/GMT] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/danistcm/public_html/edit-user.php on line 45
+[18-Aug-2018 10:24:29 Etc/GMT] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/danistcm/public_html/edit-user.php on line 45
+[18-Aug-2018 10:24:29 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (2) in /home/danistcm/public_html/edit-user.php on line 45
+[18-Aug-2018 10:44:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/danistcm/public_html/admin-pannel.php on line 20
+[18-Aug-2018 10:45:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/danistcm/public_html/admin-pannel.php on line 20
+[18-Aug-2018 19:17:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/danistcm/public_html/listener.php on line 3
+[18-Aug-2018 19:19:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/danistcm/public_html/listener.php on line 3
+[18-Aug-2018 20:35:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/danistcm/public_html/listener.php on line 74
+[18-Aug-2018 20:36:49 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/danistcm/public_html/listener.php on line 74
+[18-Aug-2018 21:06:52 Etc/GMT] PHP Warning:  fopen(logs.txt): failed to open stream: Success in /home/danistcm/public_html/listener.php on line 53
+[18-Aug-2018 21:11:29 Etc/GMT] PHP Warning:  fopen(test.txt): failed to open stream: Success in /home/danistcm/public_html/listener.php on line 53
+[18-Aug-2018 21:28:13 Etc/GMT] PHP Notice:  Undefined variable: req in /home/danistcm/public_html/listened.php on line 12
+[18-Aug-2018 21:32:27 Etc/GMT] PHP Notice:  Undefined variable: req in /home/danistcm/public_html/listened.php on line 12
+[18-Aug-2018 21:35:28 Etc/GMT] PHP Notice:  Undefined variable: req in /home/danistcm/public_html/listened.php on line 12
+[18-Aug-2018 21:38:53 Etc/GMT] PHP Notice:  Undefined variable: req in /home/danistcm/public_html/listened.php on line 12
+[22-Aug-2018 18:04:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/danistcm/public_html/listener.php on line 100
+[22-Aug-2018 18:04:43 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/danistcm/public_html/listener.php on line 100
+[22-Aug-2018 18:07:42 Etc/GMT] PHP Warning:  fopen(test.txt): failed to open stream: Success in /home/danistcm/public_html/listener.php on line 53
+[22-Aug-2018 18:10:27 Etc/GMT] PHP Warning:  fopen(listed.txt): failed to open stream: Success in /home/danistcm/public_html/listener.php on line 53
+[02-Sep-2018 09:13:55 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/danistcm/public_html/listener.php on line 18
+[02-Sep-2018 09:13:55 Etc/GMT] PHP Notice:  Use of undefined constant txt - assumed 'txt' in /home/danistcm/public_html/listener.php on line 18
+[02-Sep-2018 09:14:43 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/danistcm/public_html/listener.php on line 18
+[02-Sep-2018 09:14:43 Etc/GMT] PHP Notice:  Use of undefined constant txt - assumed 'txt' in /home/danistcm/public_html/listener.php on line 18
+[15-Sep-2018 09:21:26 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[15-Sep-2018 09:21:26 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/danistcm/public_html/meal-form.php:39) in /home/danistcm/public_html/meal-form.php on line 70
+[15-Sep-2018 09:24:46 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[15-Sep-2018 09:29:00 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/workout-form.php on line 36
+[15-Sep-2018 09:30:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/combo-form.php on line 39
+[15-Sep-2018 10:49:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[15-Sep-2018 11:16:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[15-Sep-2018 11:16:33 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/danistcm/public_html/meal-form.php:39) in /home/danistcm/public_html/meal-form.php on line 70
+[16-Sep-2018 06:14:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/danistcm/public_html/meal-form.php on line 39
+[16-Sep-2018 06:14:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/danistcm/public_html/meal-form.php:39) in /home/danistcm/public_html/meal-form.php on line 70
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fwrite(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 22
+[16-Sep-2018 07:50:35 Etc/GMT] PHP Warning:  fclose(): 6 is not a valid stream resource in /home/danistcm/public_html/listener.php on line 23
+[16-Sep-2018 08:16:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/danistcm/public_html/listener.php on line 36

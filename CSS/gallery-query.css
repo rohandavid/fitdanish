@@ -1,0 +1,24 @@
+@media only screen and (max-width:805px){
+  
+
+    .mobile-navi{
+        display: inline-block;
+        margin-right: 3rem;
+    }
+    
+    .main-nav{
+       float: left;
+       display: none;
+    }
+    
+    .main-nav li{
+        display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited{
+     display: block;
+     border: 0;
+    }
+    
+    }
+   

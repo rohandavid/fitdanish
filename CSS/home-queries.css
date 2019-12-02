@@ -1,0 +1,430 @@
+@media only screen and (max-width:1300px){
+  .work-out-left{
+      padding: 4rem;
+  }
+
+  .text{
+     
+      top: 12%;
+      left: 22%;
+   
+  }
+   .nocredit{
+         padding-left: 2rem;
+   }
+
+  html{
+      font-size: 56%;
+  }
+
+
+}
+@media only screen and (min-width:1400px)
+{
+  .header{
+      width: 100vw;
+  }
+}
+
+@media only screen and (max-width:1023px){
+ 
+
+  .logo img
+  {
+      margin-left: 40%;
+  }
+    .row-c{
+        max-width: 50rem;
+    }
+
+   .row-c [class^="col-"] {
+      float: left; 
+      width: 100%;
+  }
+  
+  .row-c [class^="col-"] {
+      margin-bottom: 5rem; }
+  
+  
+
+    
+
+  html{
+      font-size: 52%;
+  }
+      
+
+  .main-nav{
+  
+      margin-top: 3rem;
+      margin-right: 2rem;
+  }
+  
+  .main-nav li{
+      
+    
+      margin-left: 1.5rem;
+       }
+  
+  .main-nav li a:link,
+  .main-nav li a:visited{
+      font-size:140%;    
+      
+  }
+
+
+  .text{
+     
+      top: 10%;
+      left: 25%;
+      font-size: 250%;
+   
+  }
+
+
+}
+
+
+
+@media only screen and (max-width:871px){
+
+
+    .btn:link,
+    .btn:visited
+     {
+      
+      display: inline-block;
+      padding: 1rem 1rem;
+      text-decoration: none;
+      font-weight: 150;
+      color: #fff;
+      -webkit-border-radius: 100px;
+              border-radius: 100px;
+      -webkit-transition: background-color 0.2s,border 0.2s,font 0.2s;
+      -o-transition: background-color 0.2s,border 0.2s,font 0.2s;
+      transition: background-color 0.2s,border 0.2s,font 0.2s;
+      font-size: 75%;
+     }
+        
+    
+     .phone-text{
+      display: inline;
+    }
+    
+     .btn1:link,
+    .btn1:visited
+    
+    
+    {
+      
+      display: inline-block;
+      padding: 1rem 1rem;
+      text-decoration: none;
+      font-weight: 150;
+      color: #fff;
+      -webkit-border-radius: 100px;
+              border-radius: 100px;
+      -webkit-transition: background-color 0.2s,border 0.2s,font 0.2s;
+      -o-transition: background-color 0.2s,border 0.2s,font 0.2s;
+      transition: background-color 0.2s,border 0.2s,font 0.2s;
+      font-size: 75%;
+    }
+    
+    .btn-full:link,
+    .btn-full:visited
+    
+    
+    {
+      margin-right: 15px;
+      background-color: #e64622;
+      border:1px solid #e64622;
+      
+      
+    }
+    
+    .btn-full1:link,
+    .btn-full1:visited
+    
+    
+    {
+      margin-top: 10rem;
+      margin-right: 1.5rem;
+      background-color: #e64622;
+      border:1px solid #e64622;
+      
+      
+    }
+
+    .meal-button{
+          margin-top: 14%;
+    }
+    
+    
+    }
+    
+    @media only screen and (max-width:805px){
+      .meal-pic{
+      height: 50rem;
+      margin-top: 6rem;
+    }
+    
+    .header{
+        width: 100vw;
+    }
+    .back-container{
+        width: 100vw;
+    }
+    .workout-pic{
+      height: 50rem;
+      background-image:url(../danish/danish-work.JPG);
+      -webkit-background-size: cover;
+              background-size: cover;
+      margin-top: 1rem;
+    }
+    
+    .mobile-navi{
+      display: inline-block;
+      margin-right: 3rem;
+    }
+    
+    .main-nav{
+     float: right;
+     display: none;
+      margin-right: 0%;
+    
+    }
+    
+    .main-nav li{
+      display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited{
+    display: block;
+    border: 0;
+    }
+    
+    
+    }
+    
+
+
+
+
+    @media only screen and (max-width:667px){
+        html{
+           font-size:  48%;
+        }
+      }
+      
+      @media only screen and (max-width:637px){
+      
+      .row{
+              max-width: 50rem;
+          }
+      
+         .row [class^="col-"] {
+            float: left; 
+            width: 100%;
+        }
+        
+        .row [class^="col-"] {
+            margin-bottom: 2rem; }
+        
+        .section-mealplan{
+      margin-top: none;
+      text-align: center;
+      
+      background-color: rgb(46, 42, 41);
+      }
+      .workout-button{
+        margin-left: 6rem;
+      }
+    }      
+
+
+
+    @media only screen and (max-width:480px){
+
+        .logo{
+            display: inline-block;
+            width: 50%;
+            margin-left: 2%;
+        }
+        .logo img{
+            margin-top: 2rem;
+      
+        margin-right: 0%;
+        width: 100%;
+        }
+      
+       .mobile-navi{
+           margin-top: 3rem;
+       }
+        
+       .meal-pic{
+           height: 500px;
+       }
+      
+       .workout-pic{
+           height: 500px;
+       }
+      
+      
+      
+        .main-nav li{
+            font-size: 120%;
+        }
+      
+       
+        
+       
+        .text{
+            color: white;
+        }
+        
+      
+         .heading{
+             text-transform: uppercase;
+             font-size: 220%;
+      
+         }
+        
+        
+      }
+
+      @media only screen and (min-height:400px) and (max-width : 800px){
+         .extra{
+           height: 360vh;
+         }
+
+         .section-mealplan{
+              height:280vh;
+         }
+      }
+
+      @media only screen and (min-height:500px) and (max-width : 800px)
+      {
+               
+        .section-cards{
+
+  
+            height: 220vh;
+            
+        
+        }
+
+        .section-mealplan{
+            height: 190vh;
+        }
+
+      }
+
+
+      @media only screen and (min-height:1000px) and (max-width : 1000px)
+      {
+               
+        .section-cards{
+
+  
+            height: 139vh;
+            
+        
+        }
+
+        .section-mealplan{
+            height: 70vh;
+        }
+
+      }
+
+      @media only screen and (min-height:1200px)
+      {
+
+
+        .section-cards{
+
+  
+            height: 50vh;
+            
+        
+        }
+
+        .section-mealplan{
+            height: 70vh;
+        }
+
+      }
+
+      @media only screen and (max-width:800px)
+      {
+      .quote{
+      float: none;
+      margin-left: 35%;
+      font-size: 300%;
+      margin-top: 3%;
+      }
+      
+      .extra-image{
+      margin-left: 0%;
+      width: 100%;
+      
+      height: 80%;
+      }
+      .extra{
+      height: 110vh;
+      
+      }
+      
+      }
+      
+      @media only screen and (max-width:480px)
+      {
+      .quote{
+        
+        margin-left: 20%;
+        font-size: 270%;
+        margin-top: 5%;
+      }
+      
+      .extra-image{
+        margin-left: 0%;
+        width: 100%;
+      
+        height: 80%;
+      }
+      }
+
+
+      @media only screen and (min-width:1300px){
+        .header{
+          display: -ms-grid;
+          display: grid;
+          justify-items: center;
+          -webkit-box-pack: center;
+              -ms-flex-pack: center;
+                  -webkit-justify-content: center;
+                  justify-content: center;
+        }
+        
+        
+        .header-row{
+          display: -ms-grid;
+          display: grid;
+          -webkit-box-pack: center;
+              -ms-flex-pack: center;
+                  -webkit-justify-content: center;
+                  justify-content: center;
+          justify-items: center;
+          width: 120%;
+        }
+        
+        .logo img{
+          margin-left: 40%;
+        }
+        
+        .main-nav{
+          margin-left: 0%;
+          margin-right: 0%;
+        }
+        }
+        

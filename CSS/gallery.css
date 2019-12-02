@@ -1,0 +1,250 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777; 
+   background-color: #2e2929; }
+
+.row {
+  max-width: 114rem;
+  margin: 0 auto; }
+  .row:not(:last-child) {
+    margin-bottom: 8rem; }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both; }
+  .row [class^="col-"] {
+    float: left; }
+    .row [class^="col-"]:not(:last-child) {
+      margin-right: 1rem; }
+  .row .col-1-of-2 {
+    width: calc((100% - 6rem) / 2); }
+  .row .col-1-of-3 {
+    width: calc((100% - 2 * 6rem) / 3); }
+  .row .col-2-of-3 {
+    width: calc(2 * ((100% - 2 * 6rem) / 3) + 6rem); }
+  .row .col-1-of-4 {
+    width: calc((100% - 3 * 6rem) / 4); }
+  .row .col-2-of-4 {
+    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
+  .row .col-3-of-4 {
+    width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
+
+
+
+/*...... navigation.......*/
+
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-left: 1rem; }
+
+
+.main-nav li a:link,
+.main-nav li a:visited {
+  text-decoration: none;
+  color: #777;
+  text-transform: uppercase;
+  font-size: 120%;
+  border-bottom: 2px solid transparent;
+  transition: 0.3s;
+  padding: 8px; }
+
+.main-nav li a:hover,
+.main-nav li a:active {
+  border-bottom: 2px solid #e62a1c; }
+
+
+.logo{
+    float: left;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+
+.gallery-heading{
+    margin-bottom: 0.5rem;
+}
+
+.gallery-heading h1{
+    font-size: 300%;
+    font-weight: 200;
+    text-align: center;
+}
+
+
+
+.header{
+    padding-bottom: 10rem;
+}
+.pic1 img,.pic3 img,.pic5 img,.pic7 img,.pic9 img {
+    float: right;
+}
+.pic2 img,.pic4 img,.pic6 img,.pic8 img,.pic10 img{
+    float: left;
+}
+
+/*...... gallery.......*/
+#myImg,#myImg2,#myImg3,#myImg4,#myImg5,#myImg6 ,#myImg7,#myImg8,
+#myImg9{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+
+#myImg:hover {opacity: 0.7;}
+#myImg2:hover {opacity: 0.7;}
+#myImg3:hover {opacity: 0.7;}
+#myImg4:hover,#myImg5:hover,#myImg6:hover,#myImg7:hover,#myImg8:hover, 
+#myImg9:hover{opacity: 0.7;}
+
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption,#caption2,#caption3,#caption4,#caption5,#caption6,#caption7,#caption8,#caption9{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption,#caption2,#caption3,#caption4,#caption5,#caption6,#caption7,#caption8,#caption9{    
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close,.close2,.close3,.close4,.close5,.close6,.close7,.close8,.close9{
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,.close2:hover,.close2:focus,.close3:hover,.close3:focus,.close4:hover,.close4:focus,
+.close:focus,.close5:focus,.close6:focus,.close5:hover,.close6:hover,.close7:hover,.close7:focus,.close8:hover,.close8:focus,
+.close9:focus,.close9:hover{
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 90%;
+    }
+}
+
+.gallery{
+    padding-bottom: 20rem;
+}
+
+
+.footer {
+    background-color: #333; }
+  
+  .nocredit .social-links {
+    list-style: none;
+    margin-top: 1rem; }
+    .nocredit .social-links li {
+      display: inline-block;
+      margin-right: 3rem;
+      font-size: 400%; }
+  
+  .nocredit .social-links li a:link,
+  .nocredit .social-links li a:visited {
+    color: white; }
+  
+  .nocredit .social-links li a:hover,
+  .nocredit .social-links li a:active {
+    color: #e62a1c; }
+  
+  .credit {
+    margin-top: 1rem; }
+    .credit p {
+      font-size: 200%; }
+  
+  .credit p a:link,
+  .credit p a:visited {
+    color: white;
+    text-decoration: none; }
+  
+  .credit p a:hover,
+  .credit p a:active {
+    color: red;
+    text-decoration: none; }
+  
+    .mobile-navi {
+        float: right;
+        margin-top: 3rem;
+        cursor: pointer;
+        display: none; }
+      
+      .mobile-navi i {
+        font-size: 250%;
+        color: #fff; }
+

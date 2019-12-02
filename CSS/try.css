@@ -1,0 +1,215 @@
+<div class="row">
+
+                <div class="col-1-of-2 pic1">
+                        <img id="myImg7" src="gallery/g7.JPG" alt="" style="width:70%; min-width:150px">
+        
+        
+                        <!-- The Modal -->
+                        <div id="myModal7" class="modal">
+                          <span class="close7">&times;</span>
+                          <img class="modal-content" id="img07">
+                          <div id="caption7"></div>
+                        </div>
+                    </div>
+        
+                    <div class="col-1-of-2 pic2">
+                     
+                            <img id="myImg8" src="gallery/g8.JPG" alt="" style="width:70%; min-width: 150px;">
+                            <div id="myModal8" class="modal">
+                              <span class="close8">&times;</span>
+                              <img class="modal-content" id="img08">
+                              <div id="caption8"></div>
+                            </div>
+                         
+                        </div>
+        
+                                 
+                                </div>
+        
+        </div>
+
+        <div class="row">
+
+                <div class="col-1-of-2 pic1">
+                        <img id="myImg9" src="gallery/g6.JPeG" alt="" style="width:70%; min-width:150px">
+        
+        
+                        <!-- The Modal -->
+                        <div id="myModal9" class="modal">
+                          <span class="close9">&times;</span>
+                          <img class="modal-content" id="img09">
+                          <div id="caption9"></div>
+                        </div>
+                    </div>
+        
+                    <div class="col-1-of-2 pic2">
+                     
+                            <img id="myImg10" src="gallery/g10.JPEG" alt="" style="width:70%; min-width: 150px;">
+                            <div id="myModal0" class="modal">
+                              <span class="close10">&times;</span>
+                              <img class="modal-content" id="img10">
+                              <div id="caption10"></div>
+                            </div>
+                         
+                        </div>
+        
+                                 
+                                </div>
+        
+        </div>
+
+
+
+
+
+
+        <div class="col-1-of-2 pic2">
+                             
+        <img id="myImg8" src="gallery/g8.JPG" alt="" style="width:70%; min-width: 150px;">
+        <div id="myModal8" class="modal">
+          <span class="close8">&times;</span>
+          <img class="modal-content" id="img08">
+          <div id="caption8"></div>
+        </div>
+     
+    </div>
+
+
+
+
+
+
+
+
+
+
+        ,#myImg8,#myImg9,#myImg10
+
+        ,#myImg8:hover,#myImg9:hover,#myImg10:hover
+
+        ,#caption8,#caption9,#caption10
+
+
+        ,#caption8,#caption9,#caption10
+
+        .close8,.close9,.close10 
+
+        .close8:focus,.close9:focus,.close10:focus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // img8                                                                    
+
+        // Get the modal
+        var modal8 = document.getElementById('myModal8');
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img8 = document.getElementById('myImg8');
+        var modalImg8 = document.getElementById("img08");
+        var captionText8 = document.getElementById("caption8");
+        img8.onclick = function(){
+            modal8.style.display = "block";
+            modalImg8.src = this.src;
+            captionText8.innerHTML = this.alt;
+        }
+        
+        // Get the <span> element that closes the modal
+        var span8 = document.getElementsByClassName("close8")[0];
+        
+        // When the user clicks on <span> (x), close the modal+
+        span8.onclick = function() { 
+            modal8.style.display = "none";
+        }
+
+        
+                // img9                                                                    // img3
+
+        // Get the modal
+var modal9 = document.getElementById('myModal9');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var myImg9 = document.getElementById('myImg9');
+var modalImg9 = document.getElementById("img09");
+var captionText9 = document.getElementById("caption9");
+img9.onclick = function(){
+modal9.style.display = "block";
+modalImg9.src = this.src;
+captionText9.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span9 = document.getElementsByClassName("close9")[0];
+
+// When the user clicks on <span> (x), close the modal+
+span9.onclick = function() { 
+modal9.style.display = "none";
+}
+
+
+                // img10                                                               
+
+        // Get the modal
+        var modal10 = document.getElementById('myModal10');
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img10 = document.getElementById('myImg10');
+        var modalImg10 = document.getElementById("img10");
+        var captionText10 = document.getElementById("caption10");
+        img10.onclick = function(){
+            modal10.style.display = "block";
+            modalImg10.src = this.src;
+            captionText10.innerHTML = this.alt;
+        }
+        
+        // Get the <span> element that closes the modal
+        var span10 = document.getElementsByClassName("close10")[0];
+        
+        // When the user clicks on <span> (x), close the modal+
+        span10.onclick = function() { 
+            modal10.style.display = "none";
+        }
+
+
+
+
+
+
+
+
+
+
+        var modal7 = document.getElementById('myModal7');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var myImg7 = document.getElementById('myImg7');
+var modalImg7 = document.getElementById("img07");
+var captionText7 = document.getElementById("caption7");
+img7.onclick = function(){
+    modal7.style.display = "block";
+    modalImg7.src = this.src;
+    captionText7.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span7 = document.getElementsByClassName("close7")[0];
+
+// When the user clicks on <span> (x), close the modal+
+span7.onclick = function() { 
+    modal7.style.display = "none";
+}

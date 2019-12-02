@@ -1,0 +1,421 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777; }
+
+.row {
+  max-width: 114rem;
+  margin: 0 auto; }
+  .row:not(:last-child) {
+    margin-bottom: 8rem; }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both; }
+  .row [class^="col-"] {
+    float: left; }
+    .row [class^="col-"]:not(:last-child) {
+      margin-right: 6rem; }
+  .row .col-1-of-2 {
+    width: calc((100% - 6rem) / 2); }
+  .row .col-1-of-3 {
+    width: calc((100% - 2 * 6rem) / 3); }
+  .row .col-2-of-3 {
+    width: calc(2 * ((100% - 2 * 6rem) / 3) + 6rem); }
+  .row .col-1-of-4 {
+    width: calc((100% - 3 * 6rem) / 4); }
+  .row .col-2-of-4 {
+    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
+  .row .col-3-of-4 {
+    width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
+
+.card {
+  perspective: 150rem;
+  position: relative;
+  height: 50rem; }
+  .card_side {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    backface-visibility: hidden;
+    height: 50rem;
+    transition: all 0.8s ease;
+    border-radius: 3px;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.16); }
+    .card_side-front1 {
+      background-color: #fff; }
+    .card_side-back1 {
+      background-image: linear-gradient(to right bottom, #ffb900, #ff7730);
+      transform: rotateY(180deg); }
+    .card_side-front2 {
+      background-color: #fff; }
+    .card_side-back2 {
+      background-image: linear-gradient(to right bottom, #e9e9e9, #b8b6b5);
+      transform: rotateY(180deg); }
+    .card_side-front3 {
+      background-color: #fff; }
+    .card_side-back3 {
+      background-image: linear-gradient(to right bottom, #e63d3d, #ed2626);
+      transform: rotateY(180deg); }
+  .card:hover .card_side-front1 {
+    transform: rotateY(-180deg); }
+  .card:hover .card_side-back1 {
+    transform: rotateY(0deg); }
+  .card:hover .card_side-front2 {
+    transform: rotateY(-180deg); }
+  .card:hover .card_side-back2 {
+    transform: rotateY(0deg); }
+  .card:hover .card_side-front3 {
+    transform: rotateY(-180deg); }
+  .card:hover .card_side-back3 {
+    transform: rotateY(0deg); }
+
+.image-meal1 {
+  height: 23rem;
+  background-image: url(../../danish/MealPlan.jpg);
+  background-size: cover; }
+
+.image-meal2 {
+  height: 23rem;
+  background-image: url(../../danish/gympic.jpg);
+  background-size: cover; }
+
+.image-meal3 {
+  height: 23rem;
+  background-image: url(../../danish/combined.png);
+  background-size: cover; }
+
+.card-heading1 {
+  text-align: center;
+  color: #ffb900;
+  font-display: bold;
+  font-size: 300%;
+  padding: 2rem 0;
+  text-transform: uppercase; }
+
+.list1 {
+  list-style-type: none; }
+  .list1 li {
+    text-align: center;
+    text-decoration-line: none;
+    padding-bottom: 1rem;
+    font-size: 150%; }
+
+.card-heading2 {
+  text-align: center;
+  color: #a09b8dd5;
+  font-display: bold;
+  font-size: 300%;
+  padding: 2rem 0;
+  text-transform: uppercase; }
+
+.list2 {
+  list-style-type: none; }
+  .list2 li {
+    text-align: center;
+    text-decoration-line: none;
+    padding-bottom: 1rem;
+    font-size: 150%; }
+
+.card-heading3 {
+  text-align: center;
+  color: #f00909;
+  font-display: bold;
+  font-size: 300%;
+  padding: 2rem 0;
+  text-transform: uppercase; }
+
+.list3 {
+  list-style-type: none; }
+  .list3 li {
+    text-align: center;
+    text-decoration-line: none;
+    padding-bottom: 1rem;
+    font-size: 150%; }
+
+.btn-card:link,
+.btn-card:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 1.5rem 4rem;
+  border-radius: 10rem;
+  transition: all 0.2s;
+  position: absolute;
+  top: 70%;
+  left: 30%; }
+
+.btn-white {
+  color: #777;
+  background-color: #fff; }
+
+.btn-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); }
+
+.btn-card:active {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 5px rgba(0, 0, 0, 0.2); }
+
+.price-box {
+  font-size: 300%;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  color: white; }
+
+.header {
+  height: 100vh;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.022), rgba(255, 255, 255, 0.022)), url(../CSS/images/hero.JPG);
+  background-size: cover;
+  background-position-y: -10rem;
+  background-position-x: -9rem;
+  background-attachment: fixed; }
+
+.quote {
+  position: absolute;
+  top: 50%;
+  left: 70%; }
+
+.heading {
+  text-transform: uppercase;
+  font-size: 250%; }
+
+.second-line {
+  display: block;
+  margin-left: 3rem;
+  font-style: italic; }
+
+.main-nav {
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+  margin-right: 20px; }
+
+.main-nav li {
+  display: inline-block;
+  margin-left: 30px; }
+
+.main-nav li a:link,
+.main-nav li a:visited {
+  text-decoration: none;
+  color: #777;
+  text-transform: uppercase;
+  font-size: 180%;
+  border-bottom: 2px solid transparent;
+  transition: 0.3s;
+  padding: 8px; }
+
+.main-nav li a:hover,
+.main-nav li a:active {
+  border-bottom: 2px solid #e62a1c; }
+
+/*Section meal plan*/
+.meal-heading {
+  text-transform: uppercase;
+  font-size: 200%;
+  font-weight: 200;
+  padding: 2rem 0; }
+
+.section-mealplan {
+  margin-top: none;
+  background-size: cover;
+  text-align: center;
+  height: 146vh; }
+
+.meal-pic {
+  height: 74rem;
+  background-image: url(../danish/danish.jpg);
+  background-size: cover;
+  margin-top: 6rem; }
+
+.card-and-text {
+  height: 90rem; }
+
+.right-box {
+  margin-top: 6rem; }
+
+.meal-right-box {
+  height: 40rem; }
+
+.meal-list {
+  padding-left: 8rem; }
+  .meal-list li {
+    font-size: 200%;
+    text-align: left;
+    padding-bottom: 2rem; }
+  .meal-list li:last-child {
+    padding-bottom: 0; }
+
+.meal-heading2 {
+  text-transform: uppercase;
+  font-size: 400%;
+  font-weight: 300;
+  margin-bottom: 4rem; }
+
+.btn:link,
+.btn:visited {
+  display: inline-block;
+  padding: 15px 40px;
+  text-decoration: none;
+  font-weight: 300;
+  color: #fff;
+  border-radius: 200px;
+  transition: background-color 0.2s,border 0.2s,font 0.2s;
+  font-size: 200%; }
+
+.btn-full:link,
+.btn-full:visited {
+  margin-right: 15px;
+  background-color: #e64622;
+  border: 1px solid #e64622; }
+
+.btn:hover,
+.btn:active {
+  background-color: #df440c; }
+
+.btn-full:hover,
+.btn-full:active {
+  border: 1px solid  #e64622; }
+
+.background-pic {
+  height: 100vh;
+  background-image: url(../danish/back.JPEG);
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative; }
+
+.text {
+  display: inline-block;
+  text-align: center;
+  text-transform: uppercase;
+  top: 12%;
+  left: 27%;
+  position: absolute;
+  font-size: 400%;
+  font-weight: 200; }
+
+.workout-plan {
+  margin-bottom: 10rem; }
+
+.workout-heading {
+  text-transform: uppercase;
+  font-size: 200%;
+  font-weight: 100;
+  padding: 2rem 0;
+  text-align: center;
+  margin-bottom: 8rem; }
+
+.workout-list {
+  padding-left: 5rem; }
+  .workout-list li {
+    font-size: 200%;
+    text-align: left;
+    padding-bottom: 2rem; }
+  .workout-list li:last-child {
+    padding-bottom: 0; }
+
+.workout-heading2 {
+  text-transform: uppercase;
+  font-size: 300%;
+  font-weight: 300;
+  margin-bottom: 4rem;
+  text-align: center; }
+
+.btn1:link,
+.btn1:visited {
+  display: inline-block;
+  padding: 15px 40px;
+  text-decoration: none;
+  font-weight: 300;
+  color: #fff;
+  border-radius: 200px;
+  transition: background-color 0.2s,border 0.2s,font 0.2s;
+  font-size: 200%; }
+
+.btn-full1:link,
+.btn-full1:visited {
+  margin-top: 10rem;
+  margin-right: 15px;
+  background-color: #e64622;
+  border: 1px solid #e64622; }
+
+.btn1:hover,
+.btn1:active {
+  background-color: #df440c; }
+
+.btn-full1:hover,
+.btn-full1:active {
+  border: 1px solid  #e64622; }
+
+.workout-pic {
+  height: 74rem;
+  background-image: url(../danish/danish-work.JPG);
+  background-size: cover;
+  margin-top: 1rem; }
+
+.section-cards {
+  background-color: rgba(232, 226, 226, 0.919);
+  height: 110vh; }
+
+.card-heading {
+  text-align: center;
+  padding: 3rem;
+  text-transform: uppercase;
+  font-size: 300%;
+  font-weight: 300; }
+
+.footer {
+  background-color: #333;
+  height: 20vh; }
+
+.social-links {
+  list-style: none;
+  float: left;
+  margin-top: 2rem; }
+  .social-links li {
+    display: inline-block;
+    margin-right: 3rem;
+    font-size: 400%; }
+
+.social-links li a:link,
+.social-links li a:visited {
+  color: white; }
+
+.social-links li a:hover,
+.social-links li a:active {
+  color: #e62a1c; }
+
+.credit {
+  width: 50rem;
+  height: 10rem;
+  margin-left: 70rem;
+  padding-top: 2rem; }
+  .credit p {
+    font-size: 200%; }
+
+.credit p a:link,
+.credit p a:visited {
+  color: white;
+  text-decoration: none; }
+
+.credit p a:hover,
+.credit p a:active {
+  color: red;
+  text-decoration: none; }
+
+.clearfix1 {
+  content: '.';
+  clear: both; }

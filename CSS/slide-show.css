@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #777;
+  background-color: #2e2a29; }
+
+.row {
+  max-width: 114rem;
+  margin: 0 auto; }
+  .row:not(:last-child) {
+    margin-bottom: 8rem; }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both; }
+  .row [class^="col-"] {
+    float: left; }
+    .row [class^="col-"]:not(:last-child) {
+      margin-right: 6rem; }
+  .row .col-1-of-2 {
+    width: calc((100% - 6rem) / 2); }
+  .row .col-1-of-3 {
+    width: calc((100% - 2 * 6rem) / 3); }
+  .row .col-2-of-3 {
+    width: calc(2 * ((100% - 2 * 6rem) / 3) + 6rem); }
+  .row .col-1-of-4 {
+    width: calc((100% - 3 * 6rem) / 4); }
+  .row .col-2-of-4 {
+    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
+  .row .col-3-of-4 {
+    width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
+
+
+    .header{
+        padding-bottom: 2rem;
+    }
+
+
+
+
+   
+      
+
+
+
+
+    .logo {
+        margin: 2.2rem 0.5rem;
+        float: left; }
+      
+      .main-nav {
+        float: right;
+        list-style: none;
+        margin-top: 3rem;
+        margin-right: 2rem; }
+      
+      .main-nav li {
+        display: inline-block;
+        margin-left: 3rem; }
+      
+      .main-nav li a:link,
+      .main-nav li a:visited {
+        text-decoration: none;
+        color: #777;
+        text-transform: uppercase;
+        font-size: 180%;
+        border-bottom: 2px solid transparent;
+        transition: 0.3s;
+        padding: 8px; }
+      
+      .main-nav li a:hover,
+      .main-nav li a:active {
+        border-bottom: 2px solid #e62a1c; }
+      
+
+
+
+
+
+
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+.mobile-navi {
+  float: right;
+  margin-top: 3rem;
+  cursor: pointer;
+  display: none; }
+
+.mobile-navi i {
+  font-size: 250%;
+  color: #fff; }
+
+
+  @media only screen and (max-width:805px){
+  
+
+    .mobile-navi{
+        display: inline-block;
+        margin-right: 3rem;
+    }
+    
+    .main-nav{
+       float: left;
+       display: none;
+    }
+    
+    .main-nav li{
+        display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited{
+     display: block;
+     border: 0;
+    }
+    
+    }
+   
+
+
+.partner{
+    padding-bottom: 5rem;
+    margin-left: 20%;
+}
+
+.partner p{
+    font-size: 250%;
+}
+
+.gym:link,
+.gym:visited
+{
+ color: #777;
+
+}
+
+.gym:hover,
+.gym:active{
+    color: red;
+} 
